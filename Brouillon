@@ -1,0 +1,68 @@
+Comment faire le guide : 
+- Site hébergé via github.
+- Ajouts de vidéos, images pour illustrer les propos + redirection vers des liens/vidéos d'explications (ENG/FR).
+- Version ENG/FR ?
+
+Globalement les thèmes à aborder : 
+- Un espèce de dictionnaire du vocabulaire qu'on utilise sur lol.
+- Les différents rôles (Top,Jgl,Mid,Adc,Sup), leurs objectifs, leurs avantages et inconvénients en team ou en solo...
+- La gestion des matchups pour chaque rôle.
+- La gestion de lane / ganks.
+- La gestion jungle / jungle tracking.
+- La vision.
+- Les objectifs neutres.
+- Les invades.
+- Le roaming.
+- Les drafts (Blue, Red).
+- Tips sur chaque champion (Comme les spells flashés, les principaux combos...)
+
+Structure du site : 
+- /Accueil -> Présentation rapide du projet
+- /Vocabulaire -> Petit dictionnaire du vocabulaire principal utilisé sur LoL
+- /Micro -> Aspects Mécaniques détaillés ici
+- /Macro -> Aspects Vision de jeu détaillés ici 
+- /Contact -> Me contacter pour une question
+- /Micro/Matchups -> Généralités sur les différents aspects des matchups
+- /Micro/Matchups/Top -> Explication en détails des différents type de matchup
+- /Micro/Matchups/Jgl -> -----------------------------------------------------
+- /Micro/Matchups/Mid -> -----------------------------------------------------
+- /Micro/Matchups/Adc -> -----------------------------------------------------
+- /Micro/Matchups/Sup -> -----------------------------------------------------
+- /Micro/Toplane -> Explication du rôle en lui-même, des champions qu'on y joue, de ses objectifs puis de ses avantages et inconvénients
+- /Micro/Jungle  -> ---------------------------------------------------------------------------------------------------------------------
+- /Micro/Midlane -> ---------------------------------------------------------------------------------------------------------------------
+- /Micro/Adcarry -> ---------------------------------------------------------------------------------------------------------------------
+- /Micro/Support -> ---------------------------------------------------------------------------------------------------------------------
+- /Micro/Tips -> Explication de ce que je sous-entends par tips sur les champions
+- /Micro/Tips/ChampionX -> Tips sur le champion X (page pour chaque champion)
+- /Macro/Laning_phase -> Explication de la partie early game orienté sur les laners
+- /Macro/Laning_phase/Wave_Management -> Explications généralistes sur la gestion de wave
+- /Macro/Laning_phase/Toplane -> Explications détaillées sur l'early game en rapport à son rôle (Davantage de thèmes abordés sur le wave management en rapport avec ce rôle)
+- /Macro/Laning_phase/Midlane -> -------------------------------------------------------------------------------------------------------------------------------------------
+- /Macro/Laning_phase/Adcarry -> -------------------------------------------------------------------------------------------------------------------------------------------
+- /Macro/Laning_phase/Support -> -------------------------------------------------------------------------------------------------------------------------------------------
+- /Macro/Laning_phase/Jungle  -> Explication basique de comment agir en fonction des waves de ses laners
+- /Macro/Jungle_tracking -> Explication de comment savoir où est le jungle
+- /Macro/Vision -> Explication de l'utilité et de commencer utiliser la vision
+- /Macro/Vision/Wards -> Comment Ward ? Où ? Pourquoi ?
+- /Macro/Vision/Pinkwards -> Comment placer sa pinkward ? Où ? Pourquoi ? Son coût
+- /Macro/Invades -> Comment invade ? Pourquoi ? Où ? Explication late invade
+- /Macro/Roaming -> C'est quoi ? Quand ? Comment ? Pourquoi ?
+- /Macro/Roaming/Top -> Pourquoi ? Quand ? Comment ?
+- /Macro/Roaming/Mid -> ----------------------------
+- /Macro/Roaming/Sup -> ----------------------------
+- /Macro/Roaming/Lane_swap -> Pourquoi ? Quand ? Comment ?
+- /Macro/Objectives -> Introduction rapide + comment les jouer (fight ou crossmap)
+- /Macro/Objectives/Drakes -> Utilité ? Scaling / Snowball ? Comment le jouer ? 
+- /Macro/Objectives/Grubz  -> -------------------------------------------------
+- /Macro/Objectives/Herald -> -------------------------------------------------
+- /Macro/Objectives/Nashor -> Utilité ? Comment le jouer ? Spécifités ?
+- /Macro/Objectives/Ancestral -> --------------------------------------
+- /Macro/Drafting -> Apprendre à draft
+- /Macro/Drafting/Blue -> Spécifités du BlueSide
+- /Macro/Drafting/Red  -> Spécifités du RedSide
+
+
+
+
+
