@@ -1,0 +1,33 @@
+{
+    "slug": "ahri",
+    "name": "Ahri",
+    "role": "Mid",
+    "builds": {
+        "core": [
+            "Luden",
+            "Sorcerer Shoes",
+            "Shadowflame"
+        ],
+        "situational": [
+            "Banshee",
+            "Zhonya"
+        ]
+    },
+    "tips": [
+        "Keep one charge of your R to dodge skillshots",
+        "Hit the charm before the Q, for true damage"
+    ],
+    "combos": [
+        "AA > W > AA"
+    ],
+    "videos": [
+        {
+            "title": "Ahri laning fundamentals",
+            "youtubeId": "dQw4w9WgXcQ"
+        },
+        {
+            "title": "Charm set-ups & picks",
+            "youtubeId": "XxXxXxXxXxX"
+        }
+    ]
+}

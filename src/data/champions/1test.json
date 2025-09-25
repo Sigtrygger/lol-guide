@@ -1,0 +1,32 @@
+{
+    "slug": "",
+    "name": "",
+    "role": "",
+    "builds": {
+        "core": [
+            "",
+            ""
+        ],
+        "situational": [
+            "",
+            ""
+        ]
+    },
+    "tips": [
+        "",
+        ""
+    ],
+    "combos": [
+        ""
+    ],
+    "videos": [
+        {
+            "title": "",
+            "youtubeId": ""
+        },
+        {
+            "title": "",
+            "youtubeId": ""
+        }
+    ]
+}

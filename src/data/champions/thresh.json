@@ -1,0 +1,32 @@
+{
+    "slug": "thresh",
+    "name": "Thresh",
+    "role": "Support",
+    "builds": {
+        "core": [
+            "",
+            ""
+        ],
+        "situational": [
+            "",
+            ""
+        ]
+    },
+    "tips": [
+        "(Against Thresh) If you ward the center of lantern, the ally of Thresh can't take it",
+        ""
+    ],
+    "combos": [
+        ""
+    ],
+    "videos": [
+        {
+            "title": "",
+            "youtubeId": ""
+        },
+        {
+            "title": "",
+            "youtubeId": ""
+        }
+    ]
+}

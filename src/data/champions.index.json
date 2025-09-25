@@ -1,0 +1,17 @@
+[
+    {
+        "slug": "ahri",
+        "name": "Ahri",
+        "role": "Mid"
+    },
+    {
+        "slug": "lee-sin",
+        "name": "Lee Sin",
+        "role": "Jungle"
+    },
+    {
+        "slug": "thresh",
+        "name": "Thresh",
+        "role": "Support"
+    }
+]

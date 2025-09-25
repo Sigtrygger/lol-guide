@@ -1,0 +1,35 @@
+{
+    "slug": "lee-sin",
+    "name": "Lee Sin",
+    "role": "Jungle",
+    "builds": {
+        "builds": {
+            "core": [
+                "Eclipse",
+                "Black Cleaver"
+            ],
+            "situational": [
+                "GA",
+                "Death Dance",
+                "Maw"
+            ]
+        }
+    },
+    "tips": [
+        "Use your passive between each spell, especially for your jungle clear",
+        "Keep your wards to dash, always buy one pink for that aswell"
+    ],
+    "combos": [
+        "R > Flash behind > Q1 > Q2 > AA > E"
+    ],
+    "videos": [
+        {
+            "title": "",
+            "youtubeId": ""
+        },
+        {
+            "title": "",
+            "youtubeId": ""
+        }
+    ]
+}
